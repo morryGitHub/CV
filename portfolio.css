@@ -1,0 +1,35 @@
+.table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tdHeader{
+    padding: 10px;
+}
+
+.tr {
+    border: 2px solid silver;
+    padding: 7px;
+}
+
+.td {
+    padding: 10px;
+    text-align: left;
+    border: 2px solid silver;
+}
+
+.th {
+    text-align: center;
+    padding: 10px;
+    border: 2px solid silver;
+}
+
+#table {
+    margin-left: 30px;
+    margin-top: 10px;
+    border: 2px solid silver;
+}
+
+h2{
+    text-indent: 10px;
+}
